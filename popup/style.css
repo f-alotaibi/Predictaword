@@ -1,0 +1,9 @@
+html,
+body {
+  width: 300px;
+}
+
+button {
+  width: 100%;
+  text-align: center;
+}
